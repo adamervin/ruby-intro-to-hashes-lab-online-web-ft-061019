@@ -40,14 +40,16 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  monopoly = {
-   :railroads =>
-  {
-    :pieces =>4,
-    :names =>
-    {
-    :reading_railroad => {}
-   def monopoly_with_third_tier    :three_pieces_owned   },  	}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 end
 
 def monopoly_with_fourth_tier
