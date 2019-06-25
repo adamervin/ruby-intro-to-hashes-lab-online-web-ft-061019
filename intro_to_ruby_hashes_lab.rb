@@ -48,9 +48,9 @@ end
     :pieces =>4,
     :names =>
     {
-    :reading_railroad => 
-    {
-    :pennsylvania_railroad => 
+    :reading_railroad => {}
+   
+    
 
     
     
